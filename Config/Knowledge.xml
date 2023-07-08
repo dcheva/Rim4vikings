@@ -3,7 +3,7 @@
   <knowledge>
     <li>
       <key>WorldCameraMovement</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>ReformCaravan</key>
@@ -11,7 +11,7 @@
     </li>
     <li>
       <key>Rescuing</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Capturing</key>
@@ -27,7 +27,7 @@
     </li>
     <li>
       <key>Drafting</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>GroupGotoHereDragging</key>
@@ -39,11 +39,11 @@
     </li>
     <li>
       <key>AnimalsDontAttackDoors</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>BillsTab</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>OpeningComms</key>
@@ -55,7 +55,7 @@
     </li>
     <li>
       <key>DrugPolicies</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>TVForSickPeople</key>
@@ -71,7 +71,7 @@
     </li>
     <li>
       <key>DrugBurning</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>DoorOpenSpeed</key>
@@ -79,31 +79,31 @@
     </li>
     <li>
       <key>QueueOrders</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Shelves</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>CameraDolly</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>CameraZoom</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>TimeControls</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Pause</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Stockpiles</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Forbidding</key>
@@ -115,19 +115,19 @@
     </li>
     <li>
       <key>EquippingWeapons</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Alerts</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Mining</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>WorkTab</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>ForbiddingDoors</key>
@@ -139,7 +139,7 @@
     </li>
     <li>
       <key>FormCaravan</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>AnimalTaming</key>
@@ -155,11 +155,11 @@
     </li>
     <li>
       <key>StorageTab</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>HomeArea</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>SpoilageAndFreezers</key>
@@ -175,7 +175,7 @@
     </li>
     <li>
       <key>AllowedAreas</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>MedicalOperations</key>
@@ -183,7 +183,7 @@
     </li>
     <li>
       <key>TimeAssignments</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>ManualWorkPriorities</key>
@@ -251,11 +251,11 @@
     </li>
     <li>
       <key>MeditationSchedule</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>MeditationDesiredPsyfocus</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>EditingMemes</key>
@@ -295,11 +295,11 @@
     </li>
     <li>
       <key>Concept_SimpleSidearmsBasic</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Concept_SidearmsDropping</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Concept_SidearmsMissing</key>
@@ -307,15 +307,15 @@
     </li>
     <li>
       <key>Concept_SimpleSidearmsPreference</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Concept_SimpleSidearmsAdvancedRanged</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Concept_SimpleSidearmsAdvancedMelee</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Concept_SimpleSidearmsAdvancedDrafted</key>
@@ -363,15 +363,15 @@
     </li>
     <li>
       <key>GUC_Animal_Handling</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>BM_Mounting</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>BM_Enemy_Mounting</key>
-      <value>0</value>
+      <value>1</value>
     </li>
   </knowledge>
 </ConceptKnowledge>

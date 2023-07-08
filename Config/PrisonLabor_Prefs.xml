@@ -14,6 +14,6 @@
   <last_version>v1_4_7</last_version>
   <show_news>True</show_news>
   <enable_reports>False</enable_reports>
-  <tutorials_flags>None</tutorials_flags>
+  <tutorials_flags>LaborAreaWarning</tutorials_flags>
   <version>v1_4_7</version>
 </PrisonLaborPrefsData>

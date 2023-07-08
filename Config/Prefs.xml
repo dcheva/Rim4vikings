@@ -14,8 +14,8 @@
   <plantWindSway>True</plantWindSway>
   <screenShakeIntensity>1</screenShakeIntensity>
   <textureCompression>True</textureCompression>
-  <showRealtimeClock>False</showRealtimeClock>
-  <disableTinyText>False</disableTinyText>
+  <showRealtimeClock>True</showRealtimeClock>
+  <disableTinyText>True</disableTinyText>
   <animalNameMode>None</animalNameMode>
   <mechNameMode>WhileDrafted</mechNameMode>
   <backgroundExpansionId IsNull="True" />
@@ -26,8 +26,8 @@
   <steamDeckKeyboardMode>False</steamDeckKeyboardMode>
   <preferredNames />
   <resourceReadoutCategorized>False</resourceReadoutCategorized>
-  <runInBackground>False</runInBackground>
-  <edgeScreenScroll>True</edgeScreenScroll>
+  <runInBackground>True</runInBackground>
+  <edgeScreenScroll>False</edgeScreenScroll>
   <temperatureMode>Celsius</temperatureMode>
   <autosaveIntervalDays>1</autosaveIntervalDays>
   <testMapSizes>False</testMapSizes>

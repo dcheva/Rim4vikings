@@ -1,0 +1,1438 @@
+Mono path[0] = 'C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Managed'
+Mono config path = 'C:/Games/RimWorld 1.4 Vikings/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.30f1 (e8c891080a1f)
+[Subsystems] Discovering subsystems at path C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1660 (ID=0x2184)
+    Vendor:   
+    VRAM:     5980 MB
+    Driver:   31.0.15.3623
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.080 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.676700 ms
+RimWorld 1.4.3704 rev886
+Mod Medieval Prosthetics на русском has a dependency (NunahurAlShamikh.MedP) with empty display name. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod Medieval Prosthetics на русском dependency (NunahurAlShamikh.MedP) needs to have <downloadUrl> and/or <steamWorkshopUrl> specified. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790070F50.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-000002178C7CEAE0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790172870.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-000002179019E010.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-000002178FFB3010.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-000002178FF83020.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-000002178CB0FAE0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-000002178FFC1A30.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-000002178FFC8640.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790051070.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-000002178FF8E940.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-000002178FFDAE60.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790334820.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790338A30.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790380A50.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-000002178FF8AD20.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790404010.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790407820.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790432A40.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790049040.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-000002178CC5A0F0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790469680.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-000002179046AC90.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-00000217904864B0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-00000217904942D0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-00000217905CA010.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-00000217905D0C30.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790601850.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-000002179060C660.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790620E70.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790623C80.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-000002179063A6A0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-000002179063E4B0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-00000217906484C0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790674EE0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-00000217906A74F0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790711010.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-000002179071B630.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790723040.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790728650.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790733270.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-000002179073E090.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-000002179074B0A0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-000002179085C6C0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790872CE0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-000002179088A6F0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790899510.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-000002178C7CFEF0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-000002179089C120.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-000002179099FB70.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-00000217909B0580.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-00000217906ED640.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-00000217909BC5A0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790ADCF80.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790AD6B50.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790AE4EB0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790AEAAD0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790AF28F0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790AFC500.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790B02710.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790AC9A50.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790ABAE10.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-00000217906E7610.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790B0EDB0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790B27D40.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790B55F70.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790B66FB0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790BBBBD0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790BBDDE0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790BC0400.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790BC7020.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790BD2250.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790B0C5A0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790BEE660.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790BFE080.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790C01090.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790C07EB0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790C0D0C0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790C108D0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790C77100.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790C7A510.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790D06E60.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790D7C8B0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790D90AC0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790D960E0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790D98CF0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790DB2720.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790DB3F30.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790DD0350.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790DD4B60.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790DD8D70.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790DE0990.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790DE2BA0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790DFFFB0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790E025C0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790E0FBE0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790E3D010.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-000002179024B880.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790E63E20.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021791773890.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790E68750.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790E6A360.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790E8AF80.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790E9C1A0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790EA91B0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790EAB5C0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790EB9DE0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790EC55F0.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790EE8F30.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790EEE540.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021790EFD950.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-00000217919F8550.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021791DC6F30.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021793818030.dll
+[VanillaAchievementsExpanded] version 1.4.8315
+[HugsLib] version 10.0.1
+[HugsLib] early-initializing AllowTool
+SatisfiedStorage loading
+<color=#66ffb5>[MeleeAnim]</color> Hello, world!
+Build date: 5/27/2023 6:39 PM
+Loaded assemblies (8):
+0BetterFloatMenu, Version=1.2.0.0, Culture=neutral, PublicKeyToken=null,
+0ColourPicker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null,
+AMRetextureSupport, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null,
+GistAPI, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null,
+Meta.Numerics, Version=3.1.0.0, Culture=neutral, PublicKeyToken=67d25c65a6631347,
+ModRequestAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null,
+Unity.Newtonsoft.Json, Version=7.0.0.0, Culture=neutral, PublicKeyToken=null,
+zAnimationMod, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to register in RegisterforPostLoadInit when already registered: AM.AnimDef+SettingsData 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021793BAF020.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021795694040.dll
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021793985010.dll
+DubsMintMenus v1.3.995
+Fallback handler could not load library C:/Games/RimWorld 1.4 Vikings/RimWorldWin64_Data/Mono/data-0000021793C7D030.dll
+Tried to use an uninitialized DefOf of type KeyBindingDefOf. DefOfs are initialized right after all defs all loaded. Uninitialized DefOfs will return only nulls. (hint: don't use DefOfs as default field values in Defs, try to resolve them in ResolveReferences() instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraPlus.KeyBindingDef_KeyDownEvent_Patch.CleanupAtEndOfFrame () [0x0000d] in <514395d7501d4deabd3d567a7f92fc20>:0 
+  at CameraPlus.Root_OnGUI_Patch.Postfix () [0x00000] in <514395d7501d4deabd3d567a7f92fc20>:0 
+  at (wrapper dynamic-method) Verse.Root.Verse.Root.OnGUI_Patch2(Verse.Root)
+ 
+(Filename: <514395d7501d4deabd3d567a7f92fc20> Line: 0)
+
+0,0,0.5 is not a valid IntVec3 format. Exception: System.FormatException: Input string was not in a correct format.
+  at System.Number.StringToNumber (System.String str, System.Globalization.NumberStyles options, System.Number+NumberBuffer& number, System.Globalization.NumberFormatInfo info, System.Boolean parseDecimal) [0x00057] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Number.ParseInt32 (System.String s, System.Globalization.NumberStyles style, System.Globalization.NumberFormatInfo info) [0x00013] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Int32.Parse (System.String s, System.Globalization.NumberStyles style, System.IFormatProvider provider) [0x0000e] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Convert.ToInt32 (System.String value, System.IFormatProvider provider) [0x00005] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at Verse.IntVec3.FromString (System.String str) [0x00052] in <446267b72ea8432286db63aecc70cf59>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+d3d11: failed to create 2D texture id=1783 width=25 height=31 mips=6 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=1783 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=1829 width=62 height=50 mips=7 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=1829 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=7275 width=14 height=14 mips=5 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=7275 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=7277 width=14 height=14 mips=5 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=7277 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=7401 width=128 height=511 mips=10 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=7401 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=7419 width=511 height=128 mips=10 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=7419 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=7931 width=23 height=61 mips=7 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=7931 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=7949 width=127 height=127 mips=8 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=7949 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+Quarry:: Total 5 quarryable terrain found, processed: Песчаник, Гранит, Известняк, Шиферный сланец, Мрамор
+Translation data for language Russian / Русский has 674 errors. Generate translation report for more info. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[KCSG] Vanilla Factions Expanded - Vikings contains 8 missing symbols. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[KCSG] Medieval Overhaul contains 32 missing symbols. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RimHUD v1.11.3] Initialized
+Locks: Doors expanded not found 
+Locks: SoS2 not found 
+Enabled Prison Labor v1.4.7
+[PL] CleaningArea patched
+[PL] Quarry patched
+[PL] ColonyGroups patched
+LWM Update: stable(ish) 1.4
+LWM.DeepStorage: Making Shelf, ShelfSmall, Hopper, QRY_Platform, DankPyon_RusticChest, DankPyon_MetalStrongbox, DankPyon_RoyalChest, DankPyon_RusticBookshelf, DankPyon_WoodLogs1x1c, DankPyon_WoodLogs1x2c, DankPyon_WoodLogs2x2c, DankPyon_Timber1x1c, DankPyon_Timber1x2c, DankPyon_Timber2x2c, DankPyon_Bricks1x1c, DankPyon_Bricks1x2c, DankPyon_Bricks2x2c, DankPyon_RusticCupboardEmpty, DankPyon_RusticCupboardBread, DankPyon_RusticCupboardCheese, DankPyon_RusticCupboardWine, DankPyon_RusticBarrelBigClosed, DankPyon_RusticBarrelBigGrape, DankPyon_RusticBarrelBigClosedDown, DankPyon_RusticBarrelStack, DankPyon_RusticBarrelClosed, DankPyon_BarrelWoodLog, DankPyon_BarrelIronOre, DankPyon_BarrelSilverOre, DankPyon_BarrelGoldOre, DankPyon_BarrelCoalOre, DankPyon_BarrelTextiles, DankPyon_BarrelLeather, DankPyon_BarrelComponentBasic, DankPyon_BarrelGrape, DankPyon_LargeShelfEmpty, DankPyon_LargeShelf_Bread, DankPyon_LargeShelf_Grain, DankPyon_LargeShelf_Meat, DankPyon_LargeShelf_Cheese, DankPyon_LargeShelf_Wine, DankPyon_LargeShelf_Mead, DankPyon_LargeShelf_Vegetables, DankPyon_SackClosed, DankPyon_SackFlour, DankPyon_SackWheat, DankPyon_SackPotato, DankPyon_SackApple, DankPyon_Crate1x1c, DankPyon_Crate1x2c, DankPyon_RackEmpty, DankPyon_RackSword, DankPyon_RackSpear, DankPyon_RackMixed, DankPyon_ShelfEmpty, DankPyon_ShelfFilled1c, DankPyon_ShelfFilled2c, DankPyon_ShelfFilledEmerald, DankPyon_ShelfFilledSapphire, DankPyon_ShelfFilledRuby, DankPyon_ShelfFilledSilverware, DankPyon_ShelfFilledGoldware, DankPyon_ShelfFilledChaliceSilver, DankPyon_ShelfFilledChaliceGold, DankPyon_ShelfFilledWine, DankPyon_ShelfFilledFood, DankPyon_ShelfFilledIngot, DankPyon_ShelfFilledBook, DankPyon_StrawPile, DankPyon_Storage_Cart_Empty, DankPyon_Storage_Cart_Assorted, DankPyon_Storage_Cart_Ore, DankPyon_Storage_Cart_PlantRaw, DankPyon_Storage_Cart_Textiles, DankPyon_Storage_Cart_RawWood, DankPyon_TableMarket_Meat, DankPyon_TableMarket_Dairy, DankPyon_TableMarket_Bread into Deep Storage
+PickUpAndHaul v0.1.3.2⅔ welcomes you to RimWorld with pointless logspam.
+[TrueTerrainColors v1.12.6] Loaded cached true colors for 476 terrain defs from file.
+Biomes Map after Init: 3
+MVCF successfully applied 0 patches
+[OskarPotocki.VFECore] Patches on methods annotated as Obsolete were detected by HugsLib: Verse.MapDeiniter.Deinit 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CharacterEditor v1.4.1240 initializing...
+updating labels for russian / русский...
+loading pawn slot content from file...
+character editor instance created
+checking editor settings...
+bodysizes genes are active
+CharacterEditor v1.4.1240 ...done
+[AllowTool] Applied compatibility patch for "Pick Up And Haul"
+<color=#66ffb5>[MeleeAnim]</color> Potential patch conflicts (10): 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=#66ffb5>[MeleeAnim]</color> 
+static System.Void RimWorld.FloatMenuMakerMap::AddDraftedOrders(UnityEngine.Vector3 clickPos, Verse.Pawn pawn, System.Collections.Generic.List`1<Verse.FloatMenuOption> opts, System.Boolean suppressAutoTakeableGoto)
+Prefixes:
+  [OskarPotocki.VFECore] Prefix
+Transpilers:
+  [OskarPotocki.VFECore] Transpiler
+Postfixes:
+  [co.uk.epicguru.meleeanimation] Postfix
+  [GiddyUp] Postfix
+
+System.Void Verse.PawnRenderer::RenderPawnAt(UnityEngine.Vector3 drawLoc, System.Nullable`1<Verse.Rot4> rotOverride, System.Boolean neverAimWeapon)
+Prefixes:
+  [co.uk.epicguru.meleeanimation] Prefix
+  [net.pardeike.rimworld.mod.camera+] Prefix
+Transpilers:
+  [OskarPotocki.VFECore] Transpiler
+Postfixes:
+  [net.pardeike.rimworld.mod.camera+] Postfix
+
+static System.Void Verse.PawnGenerator::GenerateGearFor(Verse.Pawn pawn, Verse.PawnGenerationRequest request)
+Prefixes:
+Transpilers:
+Postfixes:
+  [OskarPotocki.VFECore] Postfix
+  [PeteTimesSix.SimpleSidearms] GenerateGearFor
+  [co.uk.epicguru.meleeanimation] Postfix
+
+virtual System.Boolean RimWorld.Verb_MeleeAttack::TryCastShot()
+Prefixes:
+  [co.uk.epicguru.meleeanimation] Prefix
+Transpilers:
+Postfixes:
+  [PeteTimesSix.SimpleSidearms] TryCastShot
+
+System.Void Verse.PawnRenderer::RenderPawnInternal(UnityEngine.Vector3 rootLoc, System.Single angle, System.Boolean renderBody, Verse.Rot4 bodyFacing, Verse.RotDrawMode bodyDrawType, Verse.PawnRenderFlags flags)
+Prefixes:
+  [co.uk.epicguru.meleeanimation] Prefix
+  [com.otters.rimworld.mod.Tents] Prefix
+Transpilers:
+Postfixes:
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=#66ffb5>[MeleeAnim]</color> Full patch list:
+<color=#66ffb5>[MeleeAnim]</color> 
+static System.Void RimWorld.FloatMenuMakerMap::AddDraftedOrders(UnityEngine.Vector3 clickPos, Verse.Pawn pawn, System.Collections.Generic.List`1<Verse.FloatMenuOption> opts, System.Boolean suppressAutoTakeableGoto)
+Prefixes:
+  [OskarPotocki.VFECore] Prefix
+Transpilers:
+  [OskarPotocki.VFECore] Transpiler
+Postfixes:
+  [co.uk.epicguru.meleeanimation] Postfix
+  [GiddyUp] Postfix
+
+System.Void Verse.PawnRenderer::RenderPawnAt(UnityEngine.Vector3 drawLoc, System.Nullable`1<Verse.Rot4> rotOverride, System.Boolean neverAimWeapon)
+Prefixes:
+  [co.uk.epicguru.meleeanimation] Prefix
+  [net.pardeike.rimworld.mod.camera+] Prefix
+Transpilers:
+  [OskarPotocki.VFECore] Transpiler
+Postfixes:
+  [net.pardeike.rimworld.mod.camera+] Postfix
+
+static System.Void Verse.PawnGenerator::GenerateGearFor(Verse.Pawn pawn, Verse.PawnGenerationRequest request)
+Prefixes:
+Transpilers:
+Postfixes:
+  [OskarPotocki.VFECore] Postfix
+  [PeteTimesSix.SimpleSidearms] GenerateGearFor
+  [co.uk.epicguru.meleeanimation] Postfix
+
+virtual System.Boolean RimWorld.Verb_MeleeAttack::TryCastShot()
+Prefixes:
+  [co.uk.epicguru.meleeanimation] Prefix
+Transpilers:
+Postfixes:
+  [PeteTimesSix.SimpleSidearms] TryCastShot
+
+static RimWorld.PawnPosture RimWorld.PawnUtility::GetPosture(Verse.Pawn p)
+Prefixes:
+  [co.uk.epicguru.meleeanimation] Prefix
+Transpilers:
+Postfixes:
+
+static System.Boolean Verse.GlobalTextureAtlasManager::TryGetPawnFrameSet(Verse.Pawn pawn, Verse.PawnTextureAtlasFrameSet& frameSet, System.Boolean& createdNew, System.Boolean allowCreatingNew)
+Prefixes:
+  [co.uk.epicguru.meleeanimation] Prefix
+Transpilers:
+Postfixes:
+
+System.Void Verse.PawnRenderer::RenderPawnInternal(UnityEngine.Vector3 rootLoc, System.Single angle, System.Boolean renderBody, Verse.Rot4 bodyFacing, Verse.RotDrawMode bodyDrawType, Verse.PawnRenderFlags flags)
+Prefixes:
+  [co.uk.epicguru.meleeanimation] Prefix
+  [com.otters.rimworld.mod.Tents] Prefix
+Transpilers:
+Postfixes:
+
+virtual System.Void Verse.Pawn::DrawGUIOverlay()
+Prefixes:
+  [co.uk.epicguru.meleeanimation] Prefix
+Transpilers:
+Postfixes:
+
+static System.Boolean RimWorld.PawnUtility::IsInvisible(Verse.Pawn pawn)
+Prefixes:
+  [co.uk.epicguru.meleeanimation] Prefix
+Transpilers:
+Postfixes:
+
+virtual System.Void Verse.Corpse::DrawAt(UnityEngine.Vector3 drawLoc, System.Boolean flip)
+Prefixes:
+  [co.uk.epicguru.meleeanimation] Prefix
+Transpilers:
+Postfixes:
+
+System.Void Verse.PawnRenderer::DrawEquipment(UnityEngine.Vector3 rootLoc, Verse.Rot4 pawnRotation, Verse.PawnRenderFlags flags)
+Prefixes:
+  [co.uk.epicguru.meleeanimation] Prefix
+Transpilers:
+Postfixes:
+
+System.Void Verse.PawnRenderer::DrawInvisibleShadow(UnityEngine.Vector3 drawLoc)
+Prefixes:
+  [co.uk.epicguru.meleeanimation] Prefix
+Transpilers:
+Postfixes:
+
+Verse.Rot4 Verse.PawnRenderer::LayingFacing()
+Prefixes:
+Transpilers:
+Postfixes:
+  [co.uk.epicguru.meleeanimation] Postfix
+
+System.Void Verse.Pawn_DrawTracker::Notify_MeleeAttackOn(Verse.Thing Target)
+Prefixes:
+  [co.uk.epicguru.meleeanimation] Prefix
+Transpilers:
+Postfixes:
+
+<color=#66ffb5>[MeleeAnim]</color> PreCached all retexture info in 75.4ms
+<color=#66ffb5>[MeleeAnim]</color> Loaded tweak data for 97 weapons.
+<color=#66ffb5>[MeleeAnim]</color> erin.valheim.creatures has 1 missing weapon tweak data. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=#66ffb5>[MeleeAnim]</color> Successfully patched VBE with custom background renderer.
+<color=#66ffb5>[MeleeAnim]</color> Patched 2 classes that directly inherit from Verb_MeleeAttack in 53.9 ms to detect hits:
+RimWorld.Verb_MeleeApplyHediff from Assembly-CSharp
+RimWorld.Verb_MeleeAttackDamage from Assembly-CSharp
+
+[HugsLib] initializing AlmostThere
+<color=#66ffb5>[MeleeAnim]</color> Reporting missing mod/weapons failed with exception: 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+System.AggregateException: One or more errors occurred. ---> System.Exception: HTTP/1.1 404 Not Found
+  at GistAPI.GistClient`1+<ReadGist>d__4[T].MoveNext () [0x00100] in <9871f3933c9e472c9a5ac97ea4b3d2ed>:0 
+--- End of stack trace from previous location where exception was thrown ---
+  at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x0000c] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess (System.Threading.Tasks.Task task) [0x0003e] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification (System.Threading.Tasks.Task task) [0x00028] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd (System.Threading.Tasks.Task task) [0x00008] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter`1[TResult].GetResult () [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at ModRequestAPI.ModRequestClient+<UpdateModRequests>d__8.MoveNext () [0x00116] in <63a19fd66366466dbe0975de6d354b82>:0 
+--- End of stack trace from previous location where exception was thrown ---
+  at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x0000c] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess (System.Threading.Tasks.Task task) [0x0003e] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification (System.Threading.Tasks.Task task) [0x00028] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd (System.Threading.Tasks.Task task) [0x00008] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter`1[TResult].GetResult () [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at AM.Core+<UploadMissingModData>d__19.MoveNext () [0x000c9] in <d5fedb34c8d3426e9c13585b79c5d6f1>:0 
+   --- End of inner exception stack trace ---
+---> (Inner Exception #0) System.Exception: HTTP/1.1 404 Not Found
+  at GistAPI.GistClient`1+<ReadGist>d__4[T].MoveNext () [0x00100] in <9871f3933c9e472c9a5ac97ea4b3d2ed>:0 
+--- End of stack trace from previous location where exception was thrown ---
+  at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x0000c] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess (System.Threading.Tasks.Task task) [0x0003e] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification (System.Threading.Tasks.Task task) [0x00028] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd (System.Threading.Tasks.Task task) [0x00008] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter`1[TResult].GetResult () [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at ModRequestAPI.ModRequestClient+<UpdateModRequests>d__8.MoveNext () [0x00116] in <63a19fd66366466dbe0975de6d354b82>:0 
+--- End of stack trace from previous location where exception was thrown ---
+  at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x0000c] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess (System.Threading.Tasks.Task task) [0x0003e] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification (System.Threading.Tasks.Task task) [0x00028] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd (System.Threading.Tasks.Task task) [0x00008] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter`1[TResult].GetResult () [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at AM.Core+<UploadMissingModData>d__19.MoveNext () [0x000c9] in <d5fedb34c8d3426e9c13585b79c5d6f1>:0 <---
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CE is trying to create default parameter lists ...
+creating default parameter list for genes...
+249 default entities for genes created
+creating default parameter list for objects...
+2190 default entities for objects created
+creating default parameter list for turrets...
+14 default entities for turrets created
+...lists created
+CE is trying to apply modified parameters...
+no modifications for genes
+no modifications for objects
+no modifications for lifestages
+...done
+Neil tried to wear Apparel_KidParka850 but is not allowed to. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+MealRadius - Settings loaded
+Unloading 5 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 256 unused Assets to reduce memory usage. Loaded Objects now: 34828.
+Total: 484.307100 ms (FindLiveObjects: 5.627300 ms CreateObjectMapping: 3.895000 ms MarkObjects: 474.418100 ms  DeleteObjects: 0.366000 ms)
+
+Nytro tried to wear Apparel_KidParka997 but is not allowed to. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+MealRadius - Settings loaded
+Unloading 2 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 664 unused Assets to reduce memory usage. Loaded Objects now: 34580.
+Total: 497.081800 ms (FindLiveObjects: 2.521100 ms CreateObjectMapping: 3.996000 ms MarkObjects: 489.410700 ms  DeleteObjects: 1.153600 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 4)
+UnloadTime: 0.290100 ms
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 34960.
+Total: 479.247900 ms (FindLiveObjects: 2.602000 ms CreateObjectMapping: 2.325000 ms MarkObjects: 474.227300 ms  DeleteObjects: 0.093300 ms)
+
+Initializing new game with mods:
+  - brrainz.harmony
+  - Ludeon.RimWorld
+  - Ludeon.RimWorld.Royalty
+  - Ludeon.RimWorld.Ideology
+  - Ludeon.RimWorld.Biotech
+  - DerekBickley.LTOColonyGroupsFinal
+  - LZWS.DerekBickley.LTOColonyGroupsFinal
+  - maxzicode.zitools
+  - Uuugggg.WhatIsMyPurpose
+  - VanillaExpanded.VTEXE
+  - VanillaExpanded.VHE
+  - vanillaexpanded.backgrounds
+  - OskarPotocki.VanillaFactionsExpanded.Core
+  - vanillaexpanded.achievements
+  - VanillaExpanded.VCEF
+  - OskarPotocki.VFE.Vikings
+  - OW.RU.Vikings
+  - OW.RU.CORE
+  - OW.RU.ACHIEVE
+  - visilt.travelthroughwater
+  - Scherub.StonecuttingExtended
+  - dhultgren.smarterconstruction
+  - sarg.smartspeed
+  - Owlchemist.SmartFarming
+  - TRIBeagle.simpleslaverycollars
+  - Unknown.Perevod.PeteTimesSix.SimpleSidearms
+  - UnlimitedHugs.HugsLib
+  - PeteTimesSix.SimpleSidearms
+  - Owlchemist.SimpleFX.Vapor
+  - Uuugggg.ShareTheLoad
+  - Owlchemist.ScatteredFlames
+  - ryder.SatisfiedStorage
+  - Am.Rus.VCEF
+  - Am.Rus.Fortress.Neolithic
+  - Am.Rus.DubsMintMenus
+  - Am.Rus.Tent
+  - am.rus.setupcamp
+  - Sandy.RPGStyleInventory.avilmask.Revamped
+  - kamikadza13.RPGStyleInventory.avilmask.Revamped
+  - Jaxe.RimHUD
+  - kamikadza13.RimHUD
+  - Ogam.Rimedieval
+  - Uuugggg.ReplaceStuff
+  - Mlie.ReGrowthExpandedWorldGeneration
+  - Mlie.RealisticHumanSounds
+  - mastertea.RandomPlus
+  - Ogliss.TheWhiteCrayon.Quarry
+  - legodude17.qualcolor
+  - FR.Eleven.velcroboy333
+  - AmCh.NeedBarOverflow
+  - kittahkhan.grazeup
+  - Kota.InventoryTab
+  - Dark.JobInBar
+  - Mlie.BrrandPhew
+  - papercrane1001.WeaponsTab
+  - Haecriver.InjuredCarry
+  - georodin.deepdrillindicator
+  - Mlie.MealRadius
+  - KB.DropInventory
+  - roolo.AlmostThere
+  - kamikadza13QOL.All
+  - avius.locks
+  - hatti.cleaningarea
+  - avius.prisonlabor
+  - LWM.DeepStorage
+  - PrimitiveStorage.velcroboy333
+  - RU.pashka.PrimitiveProduction.velcroboy333
+  - Mehni.PickUpAndHaul
+  - Neronix17.Outland.MoreFloors
+  - zyxabacab.NoSympathyForPrisoners
+  - zal.NoBarrackPenalty
+  - co.uk.epicguru.meleeanimation
+  - NunahurAlShamikh.MedP
+  - Ru.NunahurAlShamikh.MedP (incompatible version)
+  - syrchalis.processor.framework
+  - DankPyon.Medieval.Overhaul
+  - Dasreich666.RusMedievalOverhaul
+  - m00nl1ght.MapPreview
+  - Khorbos.GoToSleep
+  - Owlchemist.GiddyUp
+  - Macropod.RuTrans.Owlchemist.GiddyUp
+  - miyamiya.functionalroom.latest
+  - Aoba.Fortress.Neolithic
+  - zal.FishingBoats
+  - Lorkys.fishtraps.Russian
+  - warlocksforge.fishtraps
+  - Erin.Valheim.Creatures
+  - Dubwise.DubsMintMenus
+  - tikubonn.DontBlockDoor
+  - Van.DACrypts
+  - Nevelian.Van.DACrypts
+  - divineDerivative.tilledsoil
+  - Rikiki.ColdCrystal
+  - IH.Clean.Textures
+  - void.charactereditor
+  - Aoba.Tent
+  - brrainz.cameraplus
+  - Fluffy.Blueprints
+  - Mlie.Apothecary
+  - Macropod.RuTrans.Mlie.Apothecary
+  - Russian.roolo.AlmostThere
+  - UnlimitedHugs.AllowTool
+  - syrchalis.setupcamp
+  - SR.ModRimworld.FactionalWar
+  - Nals.CustomPortraits
+Avro tried to wear Apparel_KidShirt10458 but is not allowed to. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Scatterer Verse.GenStep_ScatterThings could not find cell to generate at. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Scatterer Verse.GenStep_ScatterThings could not find cell to generate at. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+checking editor settings...
+bodysizes genes are active
+Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 39851.
+Total: 511.699800 ms (FindLiveObjects: 1.993500 ms CreateObjectMapping: 3.377200 ms MarkObjects: 506.230800 ms  DeleteObjects: 0.098000 ms)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Verse.GridsUtility.Fogged (Verse.IntVec3 c, Verse.Map map) [0x00000] in <446267b72ea8432286db63aecc70cf59>:0 
+  at AllowTool.Designator_HaulUrgently.ThingIsRelevant (Verse.Thing thing) [0x00015] in <d3e3fec3eced4dceb8190139680bcabd>:0 
+  at AllowTool.Designator_HaulUrgently.CanDesignateThing (Verse.Thing t) [0x00001] in <d3e3fec3eced4dceb8190139680bcabd>:0 
+  at (wrapper dynamic-method) Verse.Designator.Verse.Designator.CreateReverseDesignationGizmo_Patch1(Verse.Designator,Verse.Thing)
+  at (wrapper dynamic-method) RimWorld.InspectGizmoGrid.RimWorld.InspectGizmoGrid.DrawInspectGizmoGridFor_Patch0(System.Collections.Generic.IEnumerable`1<object>,Verse.Gizmo&) currentSelectable: null 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Cannot use LookDeep to save non-IExposable non-null filters of type System.Collections.Generic.List`1[Verse.ThingFilter] 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Cannot use LookDeep to save non-IExposable non-null filters of type System.Collections.Generic.List`1[Verse.ThingFilter] 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[ZiTools] Exposing Saving
+[ZiTools] Exposing finished!
+Cannot use LookDeep to save non-IExposable non-null filters of type System.Collections.Generic.List`1[Verse.ThingFilter] 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Cannot use LookDeep to save non-IExposable non-null filters of type System.Collections.Generic.List`1[Verse.ThingFilter] 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[ZiTools] Exposing Saving
+[ZiTools] Exposing finished!
+Unloading 3 Unused Serialized files (Serialized files now loaded: 4)
+UnloadTime: 0.331100 ms
+
+Unloading 5516 unused Assets to reduce memory usage. Loaded Objects now: 35284.
+Total: 531.748700 ms (FindLiveObjects: 3.121400 ms CreateObjectMapping: 3.166800 ms MarkObjects: 517.867300 ms  DeleteObjects: 7.592900 ms)
+
+Loading game from file Autosave-2 with mods:
+  - brrainz.harmony
+  - Ludeon.RimWorld
+  - Ludeon.RimWorld.Royalty
+  - Ludeon.RimWorld.Ideology
+  - Ludeon.RimWorld.Biotech
+  - DerekBickley.LTOColonyGroupsFinal
+  - LZWS.DerekBickley.LTOColonyGroupsFinal
+  - maxzicode.zitools
+  - Uuugggg.WhatIsMyPurpose
+  - VanillaExpanded.VTEXE
+  - VanillaExpanded.VHE
+  - vanillaexpanded.backgrounds
+  - OskarPotocki.VanillaFactionsExpanded.Core
+  - vanillaexpanded.achievements
+  - VanillaExpanded.VCEF
+  - OskarPotocki.VFE.Vikings
+  - OW.RU.Vikings
+  - OW.RU.CORE
+  - OW.RU.ACHIEVE
+  - visilt.travelthroughwater
+  - Scherub.StonecuttingExtended
+  - dhultgren.smarterconstruction
+  - sarg.smartspeed
+  - Owlchemist.SmartFarming
+  - TRIBeagle.simpleslaverycollars
+  - Unknown.Perevod.PeteTimesSix.SimpleSidearms
+  - UnlimitedHugs.HugsLib
+  - PeteTimesSix.SimpleSidearms
+  - Owlchemist.SimpleFX.Vapor
+  - Uuugggg.ShareTheLoad
+  - Owlchemist.ScatteredFlames
+  - ryder.SatisfiedStorage
+  - Am.Rus.VCEF
+  - Am.Rus.Fortress.Neolithic
+  - Am.Rus.DubsMintMenus
+  - Am.Rus.Tent
+  - am.rus.setupcamp
+  - Sandy.RPGStyleInventory.avilmask.Revamped
+  - kamikadza13.RPGStyleInventory.avilmask.Revamped
+  - Jaxe.RimHUD
+  - kamikadza13.RimHUD
+  - Ogam.Rimedieval
+  - Uuugggg.ReplaceStuff
+  - Mlie.ReGrowthExpandedWorldGeneration
+  - Mlie.RealisticHumanSounds
+  - mastertea.RandomPlus
+  - Ogliss.TheWhiteCrayon.Quarry
+  - legodude17.qualcolor
+  - FR.Eleven.velcroboy333
+  - AmCh.NeedBarOverflow
+  - kittahkhan.grazeup
+  - Kota.InventoryTab
+  - Dark.JobInBar
+  - Mlie.BrrandPhew
+  - papercrane1001.WeaponsTab
+  - Haecriver.InjuredCarry
+  - georodin.deepdrillindicator
+  - Mlie.MealRadius
+  - KB.DropInventory
+  - roolo.AlmostThere
+  - kamikadza13QOL.All
+  - avius.locks
+  - hatti.cleaningarea
+  - avius.prisonlabor
+  - LWM.DeepStorage
+  - PrimitiveStorage.velcroboy333
+  - RU.pashka.PrimitiveProduction.velcroboy333
+  - Mehni.PickUpAndHaul
+  - Neronix17.Outland.MoreFloors
+  - zyxabacab.NoSympathyForPrisoners
+  - zal.NoBarrackPenalty
+  - co.uk.epicguru.meleeanimation
+  - NunahurAlShamikh.MedP
+  - Ru.NunahurAlShamikh.MedP (incompatible version)
+  - syrchalis.processor.framework
+  - DankPyon.Medieval.Overhaul
+  - Dasreich666.RusMedievalOverhaul
+  - m00nl1ght.MapPreview
+  - Khorbos.GoToSleep
+  - Owlchemist.GiddyUp
+  - Macropod.RuTrans.Owlchemist.GiddyUp
+  - miyamiya.functionalroom.latest
+  - Aoba.Fortress.Neolithic
+  - zal.FishingBoats
+  - Lorkys.fishtraps.Russian
+  - warlocksforge.fishtraps
+  - Erin.Valheim.Creatures
+  - Dubwise.DubsMintMenus
+  - tikubonn.DontBlockDoor
+  - Van.DACrypts
+  - Nevelian.Van.DACrypts
+  - divineDerivative.tilledsoil
+  - Rikiki.ColdCrystal
+  - IH.Clean.Textures
+  - void.charactereditor
+  - Aoba.Tent
+  - brrainz.cameraplus
+  - Fluffy.Blueprints
+  - Mlie.Apothecary
+  - Macropod.RuTrans.Mlie.Apothecary
+  - Russian.roolo.AlmostThere
+  - UnlimitedHugs.AllowTool
+  - syrchalis.setupcamp
+  - SR.ModRimworld.FactionalWar
+  - Nals.CustomPortraits
+[ZiTools] Exposing LoadingVars
+[ZiTools] Exposing finished!
+MealRadius - Settings loaded
+Could not load reference to Verse.ThingDef named SimpleProstheticLeg 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named SimpleProstheticArm 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named SimpleProstheticHeart 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named CochlearImplant 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named PowerClaw 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Joywire 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Painstopper 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Mindscrew 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DrillArm 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named FieldHand 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named HandTalon 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ElbowBlade 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named KneeSpike 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named VenomFangs 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named VenomTalon 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named BionicEye 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named BionicArm 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named BionicLeg 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named BionicSpine 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named BionicHeart 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named BionicStomach 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DeathAcidifier 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named BionicEar 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named BionicTongue 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Neurocalculator 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LearningAssistant 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named GastroAnalyzer 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Immunoenhancer 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Coagulator 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named HealingEnhancer 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ToughskinGland 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ArmorskinGland 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named StoneskinGland 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AestheticShaper 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AestheticNose 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LoveEnhancer 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DetoxifierStomach 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ReprocessorStomach 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named NuclearStomach 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named CircadianAssistant 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named CircadianHalfCycler 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DetoxifierLung 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DetoxifierKidney 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ArchotechEye 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ArchotechArm 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ArchotechLeg 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named PsychicSensitizer 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named PsychicHarmonizer 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named PsychicReader 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[ZiTools] Exposing ResolvingCrossRefs
+[ZiTools] Exposing finished!
+[ZiTools] Exposing PostLoadInit
+[ZiTools] Exposing finished!
+<color=#66ffb5>[MeleeAnim]</color> Loaded 0 animation renderers on map Map-0-PlayerHome
+checking editor settings...
+bodysizes genes are active
+Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 40052.
+Total: 609.342100 ms (FindLiveObjects: 1.785400 ms CreateObjectMapping: 2.984400 ms MarkObjects: 604.487700 ms  DeleteObjects: 0.084200 ms)
+
+AM.Events.AudioEvent must be instantiated using the ScriptableObject.CreateInstance method instead of new AudioEvent. 
+(Filename:  Line: 683)
+
+AM.Events.CamShakeEvent must be instantiated using the ScriptableObject.CreateInstance method instead of new CamShakeEvent. 
+(Filename:  Line: 683)
+
+AM.Events.ClashAudioEvent must be instantiated using the ScriptableObject.CreateInstance method instead of new ClashAudioEvent. 
+(Filename:  Line: 683)
+
+AM.Events.DamageEffectEvent must be instantiated using the ScriptableObject.CreateInstance method instead of new DamageEffectEvent. 
+(Filename:  Line: 683)
+
+AM.Events.DuelEvent must be instantiated using the ScriptableObject.CreateInstance method instead of new DuelEvent. 
+(Filename:  Line: 683)
+
+AM.Events.GoreSplashEvent must be instantiated using the ScriptableObject.CreateInstance method instead of new GoreSplashEvent. 
+(Filename:  Line: 683)
+
+AM.Events.KillPawnEvent must be instantiated using the ScriptableObject.CreateInstance method instead of new KillPawnEvent. 
+(Filename:  Line: 683)
+
+AM.Events.MoteEvent must be instantiated using the ScriptableObject.CreateInstance method instead of new MoteEvent. 
+(Filename:  Line: 683)
+
+AM.Events.PuntPawnEvent must be instantiated using the ScriptableObject.CreateInstance method instead of new PuntPawnEvent. 
+(Filename:  Line: 683)
+
+AM.Events.TextMoteEvent must be instantiated using the ScriptableObject.CreateInstance method instead of new TextMoteEvent. 
+(Filename:  Line: 683)
+
+AM.Events.MoteEvent must be instantiated using the ScriptableObject.CreateInstance method instead of new MoteEvent. 
+(Filename:  Line: 683)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 4)
+UnloadTime: 0.300400 ms
+
+Unloading 4787 unused Assets to reduce memory usage. Loaded Objects now: 35350.
+Total: 542.516200 ms (FindLiveObjects: 2.966000 ms CreateObjectMapping: 3.172900 ms MarkObjects: 530.756500 ms  DeleteObjects: 5.620300 ms)
+
+Loading game from file Autosave-2 with mods:
+  - brrainz.harmony
+  - Ludeon.RimWorld
+  - Ludeon.RimWorld.Royalty
+  - Ludeon.RimWorld.Ideology
+  - Ludeon.RimWorld.Biotech
+  - DerekBickley.LTOColonyGroupsFinal
+  - LZWS.DerekBickley.LTOColonyGroupsFinal
+  - maxzicode.zitools
+  - Uuugggg.WhatIsMyPurpose
+  - VanillaExpanded.VTEXE
+  - VanillaExpanded.VHE
+  - vanillaexpanded.backgrounds
+  - OskarPotocki.VanillaFactionsExpanded.Core
+  - vanillaexpanded.achievements
+  - VanillaExpanded.VCEF
+  - OskarPotocki.VFE.Vikings
+  - OW.RU.Vikings
+  - OW.RU.CORE
+  - OW.RU.ACHIEVE
+  - visilt.travelthroughwater
+  - Scherub.StonecuttingExtended
+  - dhultgren.smarterconstruction
+  - sarg.smartspeed
+  - Owlchemist.SmartFarming
+  - TRIBeagle.simpleslaverycollars
+  - Unknown.Perevod.PeteTimesSix.SimpleSidearms
+  - UnlimitedHugs.HugsLib
+  - PeteTimesSix.SimpleSidearms
+  - Owlchemist.SimpleFX.Vapor
+  - Uuugggg.ShareTheLoad
+  - Owlchemist.ScatteredFlames
+  - ryder.SatisfiedStorage
+  - Am.Rus.VCEF
+  - Am.Rus.Fortress.Neolithic
+  - Am.Rus.DubsMintMenus
+  - Am.Rus.Tent
+  - am.rus.setupcamp
+  - Sandy.RPGStyleInventory.avilmask.Revamped
+  - kamikadza13.RPGStyleInventory.avilmask.Revamped
+  - Jaxe.RimHUD
+  - kamikadza13.RimHUD
+  - Ogam.Rimedieval
+  - Uuugggg.ReplaceStuff
+  - Mlie.ReGrowthExpandedWorldGeneration
+  - Mlie.RealisticHumanSounds
+  - mastertea.RandomPlus
+  - Ogliss.TheWhiteCrayon.Quarry
+  - legodude17.qualcolor
+  - FR.Eleven.velcroboy333
+  - AmCh.NeedBarOverflow
+  - kittahkhan.grazeup
+  - Kota.InventoryTab
+  - Dark.JobInBar
+  - Mlie.BrrandPhew
+  - papercrane1001.WeaponsTab
+  - Haecriver.InjuredCarry
+  - georodin.deepdrillindicator
+  - Mlie.MealRadius
+  - KB.DropInventory
+  - roolo.AlmostThere
+  - kamikadza13QOL.All
+  - avius.locks
+  - hatti.cleaningarea
+  - avius.prisonlabor
+  - LWM.DeepStorage
+  - PrimitiveStorage.velcroboy333
+  - RU.pashka.PrimitiveProduction.velcroboy333
+  - Mehni.PickUpAndHaul
+  - Neronix17.Outland.MoreFloors
+  - zyxabacab.NoSympathyForPrisoners
+  - zal.NoBarrackPenalty
+  - co.uk.epicguru.meleeanimation
+  - NunahurAlShamikh.MedP
+  - Ru.NunahurAlShamikh.MedP (incompatible version)
+  - syrchalis.processor.framework
+  - DankPyon.Medieval.Overhaul
+  - Dasreich666.RusMedievalOverhaul
+  - m00nl1ght.MapPreview
+  - Khorbos.GoToSleep
+  - Owlchemist.GiddyUp
+  - Macropod.RuTrans.Owlchemist.GiddyUp
+  - miyamiya.functionalroom.latest
+  - Aoba.Fortress.Neolithic
+  - zal.FishingBoats
+  - Lorkys.fishtraps.Russian
+  - warlocksforge.fishtraps
+  - Erin.Valheim.Creatures
+  - Dubwise.DubsMintMenus
+  - tikubonn.DontBlockDoor
+  - Van.DACrypts
+  - Nevelian.Van.DACrypts
+  - divineDerivative.tilledsoil
+  - Rikiki.ColdCrystal
+  - IH.Clean.Textures
+  - void.charactereditor
+  - Aoba.Tent
+  - brrainz.cameraplus
+  - Fluffy.Blueprints
+  - Mlie.Apothecary
+  - Macropod.RuTrans.Mlie.Apothecary
+  - Russian.roolo.AlmostThere
+  - UnlimitedHugs.AllowTool
+  - syrchalis.setupcamp
+  - SR.ModRimworld.FactionalWar
+  - Nals.CustomPortraits
+[ZiTools] Exposing LoadingVars
+[ZiTools] Exposing finished!
+MealRadius - Settings loaded
+Could not load reference to Verse.ThingDef named SimpleProstheticLeg 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named SimpleProstheticArm 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named SimpleProstheticHeart 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named CochlearImplant 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named PowerClaw 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Joywire 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Painstopper 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Mindscrew 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DrillArm 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named FieldHand 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named HandTalon 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ElbowBlade 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named KneeSpike 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named VenomFangs 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named VenomTalon 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named BionicEye 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named BionicArm 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named BionicLeg 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named BionicSpine 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named BionicHeart 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named BionicStomach 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DeathAcidifier 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named BionicEar 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named BionicTongue 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Neurocalculator 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LearningAssistant 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named GastroAnalyzer 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Immunoenhancer 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named Coagulator 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named HealingEnhancer 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ToughskinGland 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ArmorskinGland 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named StoneskinGland 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AestheticShaper 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named AestheticNose 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named LoveEnhancer 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DetoxifierStomach 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ReprocessorStomach 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named NuclearStomach 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named CircadianAssistant 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named CircadianHalfCycler 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DetoxifierLung 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named DetoxifierKidney 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ArchotechEye 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ArchotechArm 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named ArchotechLeg 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named PsychicSensitizer 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named PsychicHarmonizer 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load reference to Verse.ThingDef named PsychicReader 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[ZiTools] Exposing ResolvingCrossRefs
+[ZiTools] Exposing finished!
+[ZiTools] Exposing PostLoadInit
+[ZiTools] Exposing finished!
+<color=#66ffb5>[MeleeAnim]</color> Loaded 0 animation renderers on map Map-0-PlayerHome
+checking editor settings...
+bodysizes genes are active
+Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 40118.
+Total: 604.882200 ms (FindLiveObjects: 2.061300 ms CreateObjectMapping: 3.538100 ms MarkObjects: 599.169700 ms  DeleteObjects: 0.112700 ms)
+
+[ZiTools] Exposing Saving
+[ZiTools] Exposing finished!
+[ZiTools] Exposing Saving
+[ZiTools] Exposing finished!
+[ZiTools] Exposing Saving
+[ZiTools] Exposing finished!
+Attack target reservation manager failed to clean up properly; Dee still reserving DankPyon_Deathstinger33565 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[ZiTools] Exposing Saving
+[ZiTools] Exposing finished!
+[ZiTools] Exposing Saving
+[ZiTools] Exposing finished!
+[ZiTools] Exposing Saving
+[ZiTools] Exposing finished!
+reinnited 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[ZiTools] Exposing Saving
+[ZiTools] Exposing finished!
+<color=#66ffb5>[MeleeAnim]</color> Did event  (AM.Events.MoteEvent) for AM_Idle_MediumFlavour2
+<color=#66ffb5>[MeleeAnim]</color> Did event  (AM.Events.MoteEvent) for AM_Idle_MediumFlavour2
+<color=#66ffb5>[MeleeAnim]</color> Did event  (AM.Events.MoteEvent) for AM_Idle_MediumFlavour2
+<color=#66ffb5>[MeleeAnim]</color> Did event  (AM.Events.MoteEvent) for AM_Idle_MediumFlavour2
+[ZiTools] Exposing Saving
+[ZiTools] Exposing finished!
+[ZiTools] Exposing Saving
+[ZiTools] Exposing finished!
+[ZiTools] Exposing Saving
+[ZiTools] Exposing finished!
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 24f8 -> priority: 1 
+  Thread -> id: 2b68 -> priority: 1 
+  Thread -> id: 1358 -> priority: 1 
