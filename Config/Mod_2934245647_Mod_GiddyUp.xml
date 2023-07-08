@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="GiddyUp.ModSettings_GiddyUp">
+		<invertMountingRules />
+		<invertDrawRules />
+		<offsetCache>
+			<keys>
+				<li>Bear_Grizzly/2</li>
+				<li>Bear_Polar/2</li>
+				<li>Muffalo/2</li>
+				<li>Bison/2</li>
+				<li>Dromedary/2</li>
+				<li>Yak/2</li>
+				<li>Horse/2</li>
+				<li>Donkey/2</li>
+				<li>Elephant/2</li>
+				<li>Rhinoceros/2</li>
+				<li>Thrumbo/2</li>
+				<li>Megasloth/2</li>
+				<li>Warg/2</li>
+				<li>VFEV_WoolyCow/2</li>
+				<li>VFEV_Fenrir/2</li>
+				<li>VFEV_Lothurr/2</li>
+				<li>VFEV_Njorun/2</li>
+				<li>DankPyon_Hampshire/2</li>
+				<li>DankPyon_Gloucestershire/2</li>
+				<li>DankPyon_NorthernBoar/2</li>
+				<li>DankPyon_Ravelder/2</li>
+				<li>DankPyon_Angus/2</li>
+				<li>DankPyon_Daer/2</li>
+				<li>DankPyon_DireBoar/2</li>
+				<li>DankPyon_Hyena/2</li>
+				<li>DankPyon_Rox/2</li>
+				<li>DankPyon_GiantConstrictorForest/2</li>
+				<li>DankPyon_GiantConstrictorCave/2</li>
+				<li>DankPyon_LindwurmForest/2</li>
+				<li>DankPyon_LindwurmCave/2</li>
+				<li>ERN_Lox/2</li>
+				<li>ERN_FrostWolf/2</li>
+			</keys>
+			<values>
+				<li>0.8232617</li>
+				<li>0.8232617</li>
+				<li>1.087402</li>
+				<li>1.070703</li>
+				<li>0.5585938</li>
+				<li>1.023652</li>
+				<li>0.7124609</li>
+				<li>0.6428711</li>
+				<li>1.166484</li>
+				<li>1.015039</li>
+				<li>1.502187</li>
+				<li>1.067773</li>
+				<li>0.8212402</li>
+				<li>0.7030273</li>
+				<li>0.8209962</li>
+				<li>1.546719</li>
+				<li>1.416797</li>
+				<li>0.53125</li>
+				<li>0.5134375</li>
+				<li>0.7555859</li>
+				<li>0.8733594</li>
+				<li>0.8664062</li>
+				<li>1.252813</li>
+				<li>0.9835742</li>
+				<li>0.9433203</li>
+				<li>1.31457</li>
+				<li>1.100273</li>
+				<li>1.120737</li>
+				<li>0.7629687</li>
+				<li>0.7684473</li>
+				<li>1.104102</li>
+				<li>0.7261328</li>
+			</values>
+		</offsetCache>
+	</ModSettings>
+</SettingsBlock>
